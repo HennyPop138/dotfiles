@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = anan.wav@gmail.com
+	name = Anan Mignot
